@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou a @GabrielaSozzo
-- 👀 Estrou a procura de um estágio
-- 🌱 Atualmente estou estudando Java
+- 👀 Estou a procura de uma oportunidade de estágio
+- 🌱 Atualmente estou estudando a linguagem Java
 - 📫 Entre em contato comigo pelo intagram @codando.sozzo
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 - ⚡ Sem fatos engraçados
 
 <!---
