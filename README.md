@@ -1,9 +1,7 @@
 - 👋 Olá, eu sou a @GabrielaSozzo
-- 👀 Estou a procura de uma oportunidade de estágio
-- 🌱 Atualmente estou estudando a linguagem Java
-- 📫 Entre em contato comigo pelo intagram @codando.sozzo
+- 🌱 Atualmente estou estudando a linguagem Python
+- 📫 Entre em contato comigo pelo Linkedln @Gabriela Sozzo
 - 😄 Pronomes: Ela/Dela
-- ⚡ Sem fatos engraçados
 
 <!---
 GabrielaSozzo/GabrielaSozzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
